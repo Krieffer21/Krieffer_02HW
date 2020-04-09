@@ -1,12 +1,23 @@
 body { background-color: #6c88a5;
 }
 
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+}
+
 .card-header {
-    background: #9da5b3
+    background: #9da5b3;
+    font-family:font-family: 'Dancing Script', cursive;
+    font-family: 'Gotu', sans-serif;
 }
 
 a {
     color: black;
+    font-family: 'Gotu', sans-serif;
+}
+
+p{
+    font-family: 'Gotu', sans-serif;
 }
 
 .form-group {
