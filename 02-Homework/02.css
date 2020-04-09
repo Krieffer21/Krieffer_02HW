@@ -29,6 +29,14 @@ p{
 align-self: auto;
 }
 
+.card img{
+    float: left;
+    align-content: center;
+    display: block;
+    margin: 10px auto;
+    max-width: 250px;
+}
+
 .btn-primary {
     background-color: #343a40;
     border-color: black;
