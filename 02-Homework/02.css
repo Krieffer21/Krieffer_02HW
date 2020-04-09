@@ -9,3 +9,31 @@ a {
     color: black;
 }
 
+.form-group {
+    text-align: left;
+    background-color: #d6d6d6;
+}
+
+.card-body {
+align-self: auto;
+}
+
+.btn-primary {
+    background-color: #343a40;
+    border-color: black;
+    margin-bottom: 20px;
+}
+
+.container {
+    text-align: center;
+
+}
+.form-group {
+    align-self: center;
+    text-align: left;
+}
+
+.card { 
+    margin: 50px;
+    align-content: center;
+}
