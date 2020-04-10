@@ -5,7 +5,7 @@ This homework asignment was to create a mobile responsive portfilio using Bootst
 ## CSS
 
 
-![alt text](https://github.com/Krieffer21/Krieffer_02HW/blob/master/02-Homework/myimages/IMG_20180226_202959_616.jpg)
+![alt text](https://github.com/Krieffer21/Krieffer_02HW/blob/master/02-Homework/myimages/Screen%20Shot%202020-04-10%20at%202.24.34%20PM.png)
 
 
 ## Nav Bar
