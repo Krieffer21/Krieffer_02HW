@@ -17,6 +17,8 @@ a {
 }
 
 p{
+    text-align: left;
+    margin: 10px;
     font-family: 'Gotu', sans-serif;
 }
 
@@ -31,9 +33,8 @@ align-self: auto;
 
 .card img{
     float: left;
-    align-content: center;
     display: block;
-    margin: 10px auto;
+    padding: 20px;
     max-width: 250px;
 }
 
