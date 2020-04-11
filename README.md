@@ -11,10 +11,10 @@ This homework asignment was to create a mobile responsive portfilio using Bootst
 ## Nav Bar
 
 
-![alt text]( )
+![alt text](https://github.com/Krieffer21/Krieffer_02HW/blob/master/02-Homework/myimages/Screen%20Shot%202020-04-10%20at%202.30.47%20PM.png)
 
 
 ## Semantic HTML
 
 
-![alt text]( )
+![alt text](https://github.com/Krieffer21/Krieffer_02HW/blob/master/02-Homework/myimages/Screen%20Shot%202020-04-10%20at%202.32.57%20PM.png)
